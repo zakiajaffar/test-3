@@ -1,0 +1,70 @@
+/* write your CSS here */
+.main{
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+.navbar{
+	flex-wrap: wrap;
+}
+.img{
+	height: 50px;
+	width: 50px;
+	margin: 10px;
+}
+.sec{
+	margin-top: 10px;
+}
+h5{
+	margin-bottom: 0;
+}
+.book-img{
+	width: 20%;
+	height: 300px;
+}
+.sec-2{
+	display: flex;
+}
+.btn{
+	border: 1px solid grey;
+	border-right: none;
+	border-left: none;
+	
+}
+.btn-primary{
+	padding: 8px 17px;
+
+}
+.mybtn{
+	    padding: 8px 40px;
+}
+.btn-group{
+	position: absolute;
+	right: 30px;
+	
+}
+.sec-3{
+	display: flex;
+	flex-wrap: wrap;
+	align-content: space-between;
+}
+.text-success{
+	text-align: center;
+	
+
+}
+.btn-group{
+	margin-right: auto;
+
+}
+.table{
+	text-align: center;
+}
+.input-group-text{
+	background-color: #1682c0;
+}
+button{
+	background-color:#47aee9;
+	border: none;
+	color: white;
+}
